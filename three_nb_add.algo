@@ -1,0 +1,14 @@
+ALGORITHM three_nb_add
+VAR
+km
+days
+
+BEGIN
+Read(km)
+Read(days)
+addition := km*days;
+write(addition) 
+
+END
+
+// this is a comment 
